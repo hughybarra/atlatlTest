@@ -6,7 +6,7 @@ This app is a test program given to me by Atlatl software. The test is designed 
 
 ### Do you have Django Installed? 
 
-If you have Django installed on your computer already you can skip this step. That being said, if you dont you can follow these instructions to get it installed. 
+If you have Django installed on your computer already you can skip this step. That being said, if you don't you can follow these instructions to get it installed. 
 
 I decided to go with VirtualEnv for this assignment. VirtualEnv helps keep dependencies organized in a simple manner so lets go ahead and get started with that. go to the [virtualenv](http://virtualenv.readthedocs.org/en/latest/) website and download virtual env. 
 
