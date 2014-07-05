@@ -44,11 +44,11 @@ Go ahead and download the project now. You can do that by clicking on the downlo
 
 `cd atlatlTest`
 
-Onc inside the atlatlTest directory we can run our Django server.
+Once inside the atlatlTest directory we can run our Django server.
 
 `python manage.py runserver`
 
-navigate your browser to `http://127.0.0.1:8000/` and you should see the project.
+Navigate your browser to `http://127.0.0.1:8000/myapp` and you should see the project.
 
 ### Command Line Commands
 
@@ -90,12 +90,13 @@ Deletes a house if any of its contents match the string provided.
 
 I decided to have a little bit of fun with the view. I love making web pages so I added a few extra little features. Unfortunately I was lacking
 in content to throw on the page. I chose to use Get Bootstrap framework because of the nature of this project and the fact that Bootstrap is fun and
-easy to use. As for the view itself I used Django's templating engine to write a simple for loop and spit some database onto the view iteslf, nothing that
+easy to use. The page is completely responsive. I always start by building the app mobile first and then building up. Not the other way around. 
+As for the view itself I used Django's templating engine to write a simple for loop and spit some database onto the view iteslf, nothing that
 fancy.
 
 To view the show user page navigate your browser to:
 
-`http://localhost:8000/myApp`
+`http://localhost:8000/myapp`
 
 I also added a little easter egg. Enter the Konami code on the main page to check it out ^_^
 

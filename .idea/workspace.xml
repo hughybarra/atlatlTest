@@ -19,7 +19,7 @@
     <file path="/main.css" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404554336203" ignored="false" />
     <file path="/showOwners.html" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404559139887" ignored="false" />
     <file path="/main.js" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404557749305" ignored="false" />
-    <file path="/README.md" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404561100145" ignored="false" />
+    <file path="/README.md" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404561455286" ignored="false" />
     <file path="/mian.css" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404559064973" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="1" selection-start="3721" selection-end="3721" vertical-scroll-proportion="0.7280335">
+            <state line="92" column="144" selection-start="3653" selection-end="3653" vertical-scroll-proportion="0.7178003">
               <folding />
             </state>
           </provider>
@@ -656,7 +656,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="1" selection-start="3721" selection-end="3721" vertical-scroll-proportion="0.7280335">
+        <state line="92" column="144" selection-start="3653" selection-end="3653" vertical-scroll-proportion="0.7178003">
           <folding />
         </state>
       </provider>
