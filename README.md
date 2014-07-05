@@ -7,9 +7,8 @@ This app is a test program given to me by Atlatl software. The test is designed 
 **Technology Stack**
 
 * Python/Django Framework
-* Jquery
-* javascript
-* CSS/GetBootstrap
+* javascript/JQuery Framework
+* CSS/GetBootstrap Framework
 * MYSQLite
 * Github
 
@@ -99,4 +98,4 @@ I also added a little easter egg. Enter the Konami code on the main page to chec
 ### The rest of the test
 
 For version one i'm going to launch a release of the app as it is now. The House models are one to one relationship with the Owner
-Ill make a version two and finish building the rest of the extra credit.  
+Ill make a version two and finish building the rest of the extra credit.
