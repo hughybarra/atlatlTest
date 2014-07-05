@@ -11,6 +11,7 @@ Jquery
 javascript
 CSS/GetBootstrap
 MYSQLite
+Github
 
 
 ### Do you have Django Installed? 
