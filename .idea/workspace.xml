@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1805d5ae-5c06-4694-aae8-95a3b6c4e678" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/add_house.py" afterPath="$PROJECT_DIR$/myApp/management/commands/add_house.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/add_owner.py" afterPath="$PROJECT_DIR$/myApp/management/commands/add_owner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApp/management/commands/delete_house.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" afterPath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atlatlTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,6 +13,7 @@
     <file path="/add_house.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404533038804" ignored="false" />
     <file path="/add_owner.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404533087039" ignored="false" />
     <file path="/show_houses.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404532980919" ignored="false" />
+    <file path="/delete_house.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404534766798" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +32,41 @@
     <favorites_list name="atlatlTest" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="delete_house.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myApp/management/commands/delete_house.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="32" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.80136985">
+              <folding>
+                <element signature="e#21#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_owner.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_owner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#21#86#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show_houses.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myApp/management/commands/show_houses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="0" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#20#85#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -50,8 +86,9 @@
       <list>
         <option value="$PROJECT_DIR$/myApp/models.py" />
         <option value="$PROJECT_DIR$/myApp/management/commands/add_house.py" />
-        <option value="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
         <option value="$PROJECT_DIR$/myApp/management/commands/add_owner.py" />
+        <option value="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
+        <option value="$PROJECT_DIR$/myApp/management/commands/delete_house.py" />
       </list>
     </option>
   </component>
@@ -294,13 +331,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="22" width="1379" height="878" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981245" sideWeight="0.6701847" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981245" sideWeight="0.6701847" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -408,15 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_owner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="191" selection-end="191" vertical-scroll-proportion="0.16438356">
-          <folding>
-            <element signature="e#21#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myApp/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="203" selection-end="204" vertical-scroll-proportion="0.26712328">
@@ -426,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myApp/management/commands/show_houses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="589" selection-end="589" vertical-scroll-proportion="0.43150684">
+        <state line="35" column="0" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#20#85#0" expanded="true" />
           </folding>
@@ -435,7 +463,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_house.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="15" selection-start="487" selection-end="487" vertical-scroll-proportion="0.1278409">
+        <state line="20" column="38" selection-start="658" selection-end="658" vertical-scroll-proportion="-0.056164384">
+          <folding>
+            <element signature="e#21#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_owner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#21#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/management/commands/delete_house.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="32" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.80136985">
           <folding>
             <element signature="e#21#86#0" expanded="true" />
           </folding>
