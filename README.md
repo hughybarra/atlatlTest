@@ -45,23 +45,23 @@ navigate your browser to `http://127.0.0.1:8000/` and you should see the project
 
 Below I have listed out all of the django custom commands. You will find an explanation and the instructions for each command.
 
-** add_owner **
+**add_owner**
 
  `python manage.py add_owner --name [enter name]`
 
-** add_house **
+**add_house**
 
  `python manage.py add_house --address [enter address] --owner [enter name]`
 
-** show_houses **
+**show_houses**
 
  `python manage.py show_houses`
 
-** show_houses [owner] **
+**show_houses [owner]**
 
  `python manage.py show_houses --owner`
 
-** delete_house **
+**delete_house**
  `python manage.py delete_house --addr-contains [enter partial address]`
 
 

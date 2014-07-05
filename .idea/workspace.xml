@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1805d5ae-5c06-4694-aae8-95a3b6c4e678" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApp/templates/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApp/templates/myApp/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/myApp/management/commands/test.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/add_house.py" afterPath="$PROJECT_DIR$/myApp/management/commands/add_house.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/models.py" afterPath="$PROJECT_DIR$/myApp/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atlatlTest/settings.py" afterPath="$PROJECT_DIR$/atlatlTest/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" afterPath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atlatlTest/urls.py" afterPath="$PROJECT_DIR$/atlatlTest/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/views.py" afterPath="$PROJECT_DIR$/myApp/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atlatlTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -55,7 +43,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="0" selection-start="2213" selection-end="2213" vertical-scroll-proportion="0.76987445">
+            <state line="63" column="14" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.916318">
               <folding />
             </state>
           </provider>
@@ -672,7 +660,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="0" selection-start="2213" selection-end="2213" vertical-scroll-proportion="0.76987445">
+        <state line="63" column="14" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.916318">
           <folding />
         </state>
       </provider>
