@@ -90,7 +90,7 @@ Deletes a house if any of its contents match the string provided.
 
 I decided to have a little bit of fun with the view. I love making web pages so I added a few extra little features. Unfortunately I was lacking
 in content to throw on the page. I chose to use Get Bootstrap framework because of the nature of this project and the fact that Bootstrap is fun and
-easy to use. The page is completely responsive. I always start by building the app mobile first and then building up. Not the other way around. 
+easy to use. The page is completely responsive. I always start by building the app mobile first and then building up. Not the other way around.
 As for the view itself I used Django's templating engine to write a simple for loop and spit some database onto the view iteslf, nothing that
 fancy.
 
