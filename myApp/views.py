@@ -5,7 +5,7 @@ from myApp.models import Owner, House
 
 def index(request):
     all_owners = House.objects.all()
-    template = loader.get_template('myApp/showOwners.html')
+    template = loader.get_template('myApp/index.html')
     context = RequestContext(request, {
         'all_owners': all_owners,
     })
