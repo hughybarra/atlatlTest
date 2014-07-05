@@ -23,23 +23,48 @@ Now lets activate our Virtualenv.
 `source bin/activate` 
 
 This activates your virtual environment and you're now working in the virtual env box.
-Now you're going to need to install Django. I used pip for my installation. If you dont have pip navigate to [pip](https://pypi.python.org/pypi/pip) and follow the insatallation insturctions. Once you're ready and pip is installed install django 
+Now you're going to need to install Django. I used pip for my installation. If you dont have pip navigate to [pip](https://pypi.python.org/pypi/pip) and follow the installation instructions. Once you're ready and pip is installed install django
 
 `pip install django `
 
-This will install django into your virtual environment. Now that that is installed our virtual env is ready for our dajngo app. 
+This will install django into your virtual environment. Now that that is installed our virtual env is ready for our Dajngo app.
 
 ### Download the Project 
 
 Go ahead and download the project now. You can do that by clicking on the download zip. Once the project is downloaded and you have unzipped the download. cd into the project using terminal
 
-`cd atlatleTest`
+`cd atlatlTest`
 
-Onc inside the atlatleTest directory we can run our Django server. 
+Onc inside the atlatlTest directory we can run our Django server.
 
 `python manage.py runserver`
 
 navigate your browser to `http://127.0.0.1:8000/` and you should see the project.
+
+### Command Line Commands
+
+Below I have listed out all of the django custom commands. You will find an explanation and the instructions for each command.
+
+** add_owner **
+
+ `python manage.py add_owner --name [enter name]`
+
+** add_house **
+
+ `python manage.py add_house --address [enter address] --owner [enter name]`
+
+** show_houses **
+
+ `python manage.py show_houses`
+
+** show_houses [owner] **
+
+ `python manage.py show_houses --owner`
+
+** delete_house **
+ `python manage.py delete_house --addr-contains [enter partial address]`
+
+
 
 
 

@@ -15,6 +15,9 @@ class Owner(models.Model):
 class House(models.Model):
     address = models.CharField(max_length=200)
     owner = models.OneToOneField(Owner, primary_key=True)
+    # owners = models.ManyToManyField(Owner)
 
     def __unicode__(self):
         return self.address
+
+

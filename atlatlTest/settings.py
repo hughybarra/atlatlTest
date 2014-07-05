@@ -52,7 +52,6 @@ ROOT_URLCONF = 'atlatlTest.urls'
 
 WSGI_APPLICATION = 'atlatlTest.wsgi.application'
 
-
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
 

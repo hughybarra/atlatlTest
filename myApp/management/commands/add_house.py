@@ -16,7 +16,7 @@ class Command(BaseCommand):
                     default=False,
                     help='adds a new house'),
 
-        make_option('--name',
+        make_option('--owner',
                     action='store',
                     dest='owner_name',
                     default=False,

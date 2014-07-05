@@ -34,7 +34,7 @@ class Command(BaseCommand):
                 sys.stdout.write('Name = [ %s ] does not exist \n' % options['owner'])
                 exit()
 
-            house = House.objects.get(owner = owner.id)
+            house = House.objects.get(owner=owner.id)
             sys.stdout.write('address = [ %s ] ' % house.address)
             sys.stdout.write('owner =  [ %s ] \n' % house.owner)
         else:

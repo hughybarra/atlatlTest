@@ -2,18 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1805d5ae-5c06-4694-aae8-95a3b6c4e678" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApp/management/commands/delete_house.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApp/templates/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/myApp/templates/myApp/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApp/management/commands/test.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/add_house.py" afterPath="$PROJECT_DIR$/myApp/management/commands/add_house.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/models.py" afterPath="$PROJECT_DIR$/myApp/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atlatlTest/settings.py" afterPath="$PROJECT_DIR$/atlatlTest/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" afterPath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atlatlTest/urls.py" afterPath="$PROJECT_DIR$/atlatlTest/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/views.py" afterPath="$PROJECT_DIR$/myApp/views.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atlatlTest.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404516900367" ignored="false" />
-    <file path="/add_house.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404533038804" ignored="false" />
+    <file path="/add_house.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404558208640" ignored="false" />
     <file path="/add_owner.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404533087039" ignored="false" />
     <file path="/show_houses.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404532980919" ignored="false" />
     <file path="/delete_house.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404534766798" ignored="false" />
+    <file path="/models.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404547429250" ignored="false" />
+    <file path="/views.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404556746132" ignored="false" />
+    <file path="/urls.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404555775417" ignored="false" />
+    <file path="/settings.py" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404550308552" ignored="false" />
+    <file path="/index.html" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404551851524" ignored="false" />
+    <file path="/main.css" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404554336203" ignored="false" />
+    <file path="/showOwners.html" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404559139887" ignored="false" />
+    <file path="/main.js" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404557749305" ignored="false" />
+    <file path="/README.md" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404559309298" ignored="false" />
+    <file path="/mian.css" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404559064973" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,35 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="delete_house.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/myApp/management/commands/delete_house.py">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="32" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.80136985">
-              <folding>
-                <element signature="e#21#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add_owner.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_owner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#21#86#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="show_houses.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myApp/management/commands/show_houses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#20#85#0" expanded="true" />
-              </folding>
+            <state line="56" column="0" selection-start="2213" selection-end="2213" vertical-scroll-proportion="0.76987445">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,11 +79,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/myApp/models.py" />
-        <option value="$PROJECT_DIR$/myApp/management/commands/add_house.py" />
-        <option value="$PROJECT_DIR$/myApp/management/commands/add_owner.py" />
         <option value="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
-        <option value="$PROJECT_DIR$/myApp/management/commands/delete_house.py" />
+        <option value="$PROJECT_DIR$/templates/myApp/index.html" />
+        <option value="$PROJECT_DIR$/atlatlTest/settings.py" />
+        <option value="$PROJECT_DIR$/myApp/templates/myApp/index.html" />
+        <option value="$PROJECT_DIR$/myApp/static/myApp/css/main.css" />
+        <option value="$PROJECT_DIR$/myApp/showOwners.html" />
+        <option value="$PROJECT_DIR$/myApp/models.py" />
+        <option value="$PROJECT_DIR$/atlatlTest/urls.py" />
+        <option value="$PROJECT_DIR$/myApp/urls.py" />
+        <option value="$PROJECT_DIR$/myApp/views.py" />
+        <option value="$PROJECT_DIR$/myApp/static/myApp/css/reset.css" />
+        <option value="$PROJECT_DIR$/myApp/static/myApp/js/main.js" />
+        <option value="$PROJECT_DIR$/myApp/management/commands/add_house.py" />
+        <option value="$PROJECT_DIR$/myApp/static/myApp/css/mian.css" />
+        <option value="$PROJECT_DIR$/myApp/templates/myApp/showOwners.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -105,7 +111,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -171,6 +177,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="management" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -197,6 +291,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="atlatlTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -206,10 +314,31 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
   </component>
   <component name="RunManager" selected="Django server.atlatlTest">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="atlatlTest" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,6 +422,13 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <configuration default="false" name="atlatlTest" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,26 +466,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="22" width="1379" height="878" extended-state="0" />
+    <frame x="61" y="22" width="1379" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981245" sideWeight="0.6701847" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24981245" sideWeight="0.6701847" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298153" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -415,55 +551,78 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Python/2.7/site-packages/django/core/management/base.py">
+    <entry file="file://$PROJECT_DIR$/myApp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="4" selection-start="7017" selection-end="7017" vertical-scroll-proportion="-3.5578802">
+        <state line="22" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.4520548">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/admin.py">
+    <entry file="file://$PROJECT_DIR$/myApp/templates/myApp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="26" selection-start="154" selection-end="154" vertical-scroll-proportion="0.10273973">
+        <state line="9" column="7" selection-start="124" selection-end="124" vertical-scroll-proportion="-5.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="10" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#42#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myApp/views.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="49" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atlatlTest/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="42" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/static/myApp/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="43" selection-start="341" selection-end="341" vertical-scroll-proportion="0.16438356">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/static/myApp/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="1" selection-start="1088" selection-end="1088" vertical-scroll-proportion="0.96575344">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/static/myApp/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/models.py">
+    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="203" selection-end="204" vertical-scroll-proportion="0.26712328">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/management/commands/show_houses.py">
+    <entry file="file://$PROJECT_DIR$/myApp/management/commands/delete_house.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1094" selection-end="1094" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#20#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_house.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="38" selection-start="658" selection-end="658" vertical-scroll-proportion="-0.056164384">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="e#21#86#0" expanded="true" />
           </folding>
@@ -472,19 +631,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_owner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+        <state line="13" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.1369863">
           <folding>
             <element signature="e#21#86#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/management/commands/delete_house.py">
+    <entry file="file://$PROJECT_DIR$/myApp/management/commands/show_houses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="32" selection-start="1293" selection-end="1293" vertical-scroll-proportion="0.80136985">
+        <state line="31" column="0" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#20#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/static/myApp/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="20" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/templates/myApp/showOwners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="28" selection-start="1148" selection-end="1337" vertical-scroll-proportion="0.7223796">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_house.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="281" selection-end="281" vertical-scroll-proportion="0.061643835">
           <folding>
             <element signature="e#21#86#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="2213" selection-end="2213" vertical-scroll-proportion="0.76987445">
+          <folding />
         </state>
       </provider>
     </entry>
