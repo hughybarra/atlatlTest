@@ -24,6 +24,13 @@ class Command(BaseCommand):
     )
 
     def handle(self, *args, **options):
+
+        """
+            This function adds a house to a provided user.
+            If the user does not exist, it creates the user and prints that the user was updated
+            and then prints out the address and user
+        """
+
         ## check for the owner in the database
         try:
             Owner.objects.get(name=options['owner_name'])

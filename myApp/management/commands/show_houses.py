@@ -1,10 +1,10 @@
 __author__ = 'Hugh'
-
 from django.core.management.base import BaseCommand, CommandError
 from django.core.exceptions import ObjectDoesNotExist
 from optparse import make_option
 from myApp.models import House, Owner
 import sys
+
 
 
 class Command(BaseCommand):
@@ -19,6 +19,12 @@ class Command(BaseCommand):
     )
 
     def handle(self, *args, **options):
+
+        """
+            This function shows all of the houses and their owners in the database.
+            If the option --owner is given it shows the house and owner of the given input
+        """
+
         if options['owner']:
             ## check for the owner in the database
             try:

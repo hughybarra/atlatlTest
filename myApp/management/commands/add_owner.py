@@ -9,7 +9,6 @@ import sys
 class Command(BaseCommand):
     args = '[owner]'
     help = 'adds a new owner'
-    ## grab all of the users in the database
 
     option_list = BaseCommand.option_list + (
         make_option('--name',
@@ -20,6 +19,10 @@ class Command(BaseCommand):
     )
 
     def handle(self, *args, **options):
+
+        """
+            this function adds an owner to the database.
+        """
 
         all_owners = Owner.objects.all()
 
