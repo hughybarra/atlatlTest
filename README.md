@@ -4,6 +4,15 @@
 
 This app is a test program given to me by Atlatl software. The test is designed to test my skills in Python/Django. Bellow are instructions on how to get up and running with my test program.
 
+**Technology Stack**
+
+Python/Django Framework
+Jquery
+javascript
+CSS/GetBootstrap
+MYSQLite
+
+
 ### Do you have Django Installed? 
 
 If you have Django installed on your computer already you can skip this step. That being said, if you don't you can follow these instructions to get it installed. 
@@ -47,21 +56,33 @@ Below I have listed out all of the django custom commands. You will find an expl
 
 **add_owner**
 
+Adds an owner to the database based off of the input after --name. If the user already exists it will respond with user exists erorr.
+
  `python manage.py add_owner --name [enter name]`
 
 **add_house**
+
+Adds a house to the specified owner. If the owner exists it replaces its old house with the new one. If the owner does not exist
+it adds the owner to the database and adds the new house to that owner.
 
  `python manage.py add_house --address [enter address] --owner [enter name]`
 
 **show_houses**
 
+Shows all of the houses in the database
+
  `python manage.py show_houses`
 
 **show_houses [owner]**
 
- `python manage.py show_houses --owner`
+Shows only the house belonging to the provided owner if he exists in the database.
+
+ `python manage.py show_houses --owner [name]`
 
 **delete_house**
+
+Deletes a house if any of its contents match the string provided.
+
  `python manage.py delete_house --addr-contains [enter partial address]`
 
 
