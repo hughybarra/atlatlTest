@@ -6,12 +6,12 @@ This app is a test program given to me by Atlatl software. The test is designed 
 
 **Technology Stack**
 
-Python/Django Framework
-Jquery
-javascript
-CSS/GetBootstrap
-MYSQLite
-Github
+*Python/Django Framework
+*Jquery
+*javascript
+*CSS/GetBootstrap
+*MYSQLite
+*Github
 
 
 ### Do you have Django Installed? 
