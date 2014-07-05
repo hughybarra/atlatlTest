@@ -53,7 +53,8 @@ navigate your browser to `http://127.0.0.1:8000/` and you should see the project
 
 ### Command Line Commands
 
-Below I have listed out all of the django custom commands. You will find an explanation and the instructions for each command.
+Below I have listed out all of the django custom commands. You will find an explanation and the instructions for each command. To get started
+go ahead and open up terminal. Make sure your current working directory is atlatlTest and enter the commands below.
 
 **add_owner**
 
@@ -86,10 +87,16 @@ Deletes a house if any of its contents match the string provided.
 
  `python manage.py delete_house --addr-contains [enter partial address]`
 
+### The View
 
+I decided to have a little bit of fun with the view. I love making web pages so I added a few extra little features. Unfortunately I was lacking
+in content to throw on the page. I chose to use Get Bootstrap framework because of the nature of this project and the fact that Bootstrap is fun and
+easy to use. As for the view itself I used Django's templating engine to write a simple for loop and spit some database onto the view iteslf, nothing that
+fancy.
 
+I also added a little easter egg. Enter the Konami code on the main page to check it out ^_^
 
+### The rest of the test
 
-
-
-
+For version one i'm going to launch a release of the app as it is now. The House models are one to one relationship with the Owner
+Ill make a version two and finish building the rest of the extra credit.  
