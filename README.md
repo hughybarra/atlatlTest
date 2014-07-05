@@ -95,7 +95,7 @@ fancy.
 
 To view the show user page navigate your browser to:
 
-`http://localhost:8000/myApp
+`http://localhost:8000/myApp`
 
 I also added a little easter egg. Enter the Konami code on the main page to check it out ^_^
 
