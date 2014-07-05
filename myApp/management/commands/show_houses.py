@@ -6,7 +6,6 @@ from myApp.models import House, Owner
 import sys
 
 
-
 class Command(BaseCommand):
     args = '[owner]'
     help = 'displays all houses'

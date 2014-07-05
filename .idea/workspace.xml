@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1805d5ae-5c06-4694-aae8-95a3b6c4e678" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/myApp/templates/myApp/showOwners.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/templates/myApp/index.html" afterPath="$PROJECT_DIR$/myApp/templates/myApp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" afterPath="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/urls.py" afterPath="$PROJECT_DIR$/myApp/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myApp/views.py" afterPath="$PROJECT_DIR$/myApp/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="atlatlTest.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,7 +25,7 @@
     <file path="/main.css" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404554336203" ignored="false" />
     <file path="/showOwners.html" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404559139887" ignored="false" />
     <file path="/main.js" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404557749305" ignored="false" />
-    <file path="/README.md" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404560670150" ignored="false" />
+    <file path="/README.md" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404560825713" ignored="false" />
     <file path="/mian.css" changelist="1805d5ae-5c06-4694-aae8-95a3b6c4e678" time="1404559064973" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,11 +46,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/atlatlTest/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="25" selection-start="274" selection-end="274" vertical-scroll-proportion="0.16736402">
-              <folding />
+            <state line="6" column="42" selection-start="192" selection-end="192" vertical-scroll-proportion="0.12328767">
+              <folding>
+                <element signature="e#0#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -67,22 +75,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
         <option value="$PROJECT_DIR$/templates/myApp/index.html" />
         <option value="$PROJECT_DIR$/atlatlTest/settings.py" />
-        <option value="$PROJECT_DIR$/myApp/templates/myApp/index.html" />
         <option value="$PROJECT_DIR$/myApp/static/myApp/css/main.css" />
         <option value="$PROJECT_DIR$/myApp/showOwners.html" />
         <option value="$PROJECT_DIR$/myApp/models.py" />
         <option value="$PROJECT_DIR$/atlatlTest/urls.py" />
-        <option value="$PROJECT_DIR$/myApp/urls.py" />
-        <option value="$PROJECT_DIR$/myApp/views.py" />
         <option value="$PROJECT_DIR$/myApp/static/myApp/css/reset.css" />
         <option value="$PROJECT_DIR$/myApp/static/myApp/js/main.js" />
         <option value="$PROJECT_DIR$/myApp/management/commands/add_house.py" />
         <option value="$PROJECT_DIR$/myApp/static/myApp/css/mian.css" />
         <option value="$PROJECT_DIR$/myApp/templates/myApp/showOwners.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/myApp/templates/myApp/index.html" />
+        <option value="$PROJECT_DIR$/myApp/views.py" />
+        <option value="$PROJECT_DIR$/myApp/urls.py" />
+        <option value="$PROJECT_DIR$/myApp/management/commands/show_houses.py" />
       </list>
     </option>
   </component>
@@ -188,54 +196,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="myApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlatlTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlatlTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlatlTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="atlatlTest" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="myApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -539,47 +499,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="439" selection-end="439" vertical-scroll-proportion="0.4520548">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/templates/myApp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="124" selection-end="124" vertical-scroll-proportion="-5.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="10" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#42#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="49" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atlatlTest/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="42" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myApp/static/myApp/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="43" selection-start="341" selection-end="341" vertical-scroll-proportion="0.16438356">
@@ -608,15 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/management/commands/delete_house.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#21#86#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myApp/management/commands/add_owner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="27" selection-start="317" selection-end="317" vertical-scroll-proportion="0.1369863">
@@ -626,25 +536,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/management/commands/show_houses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="0" selection-start="944" selection-end="944" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#20#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/myApp/static/myApp/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="20" selection-start="28" selection-end="28" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myApp/templates/myApp/showOwners.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="28" selection-start="1148" selection-end="1337" vertical-scroll-proportion="0.7223796">
           <folding />
         </state>
       </provider>
@@ -658,10 +552,78 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/templates/myApp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="7" selection-start="1594" selection-end="1594" vertical-scroll-proportion="0.9575071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="25" selection-start="274" selection-end="274" vertical-scroll-proportion="0.16736402">
+        <state line="95" column="52" selection-start="3718" selection-end="3718" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="140" selection-end="140" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="382" selection-end="382" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="376" selection-end="376" vertical-scroll-proportion="0.24657534">
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/management/commands/delete_house.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#21#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myApp/management/commands/show_houses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="223" selection-end="223" vertical-scroll-proportion="0.034246575">
+          <folding>
+            <element signature="e#20#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atlatlTest/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="42" selection-start="192" selection-end="192" vertical-scroll-proportion="0.12328767">
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

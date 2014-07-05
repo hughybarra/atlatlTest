@@ -2,7 +2,7 @@
 
 ### About this app
 
-This app is a test program given to me by Atlatl software. The test is designed to test my skills in Python/Django. Bellow are instructions on how to get up and running with my test program.
+This app is a test program given to me by Atlatl Software. The test is designed to test my skills in Python/Django. Bellow are instructions on how to get up and running with my test program.
 
 **Technology Stack**
 
@@ -92,6 +92,10 @@ I decided to have a little bit of fun with the view. I love making web pages so 
 in content to throw on the page. I chose to use Get Bootstrap framework because of the nature of this project and the fact that Bootstrap is fun and
 easy to use. As for the view itself I used Django's templating engine to write a simple for loop and spit some database onto the view iteslf, nothing that
 fancy.
+
+To view the show user page navigate your browser to:
+
+`http://localhost:8000/myapp/test`
 
 I also added a little easter egg. Enter the Konami code on the main page to check it out ^_^
 

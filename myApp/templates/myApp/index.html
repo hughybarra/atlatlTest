@@ -1,10 +1,50 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title></title>
+    {%  load staticfiles %}
+    <!-- Css Reset because It fixes all the things -->
+    <link rel="stylesheet" href="{% static "myApp/css/reset.css" %}">
+    <!-- Bootstrap Specific stuffs -->
+    <link rel="stylesheet" href="{% static "myApp/css/bootstrap.min.css" %}">
+    <link rel="stylesheet" href="{% static "myApp/css/main.css" %}">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- javascript -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
 </head>
 <body>
-    <h1>if you can see this it worked</h1>
+
+    <nav class="navbar navbar-inverse" role="navigation">
+        <div class="navbar-header">
+            <span class="navbar-brand text-center"> Hugo's Display Page</span>
+            <!-- <p class="navbar-text">Enter the Konami Code for some fun</p> -->
+        </div>
+    </nav>
+    <div class="container-fluid">
+
+        <div class="col-lg-12 text-center">
+            {% if all_owners %}
+                <ul>
+                    {% for o in all_owners %}
+                        <li class="panel panel-default ">
+                            <div clas="panel-body">
+                                <p class="lead">name:  {{ o.owner }}</p>
+                                <p></p>Address: {{ o.address }}</p>
+                            </div>
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+
+        </div>
+
+    </div>
+
+    <footer>
+        <script src="{% static 'myApp/js/main.js' %}" ></script>
+    </footer>
 
 </body>
 </html>
