@@ -99,8 +99,3 @@ To view the show user page navigate your browser to:
 `http://localhost:8000/myapp`
 
 I also added a little easter egg. Enter the Konami code on the main page to check it out ^_^
-
-### The rest of the test
-
-For version one i'm going to launch a release of the app as it is now. The House models are one to one relationship with the Owner
-Ill make a version two and finish building the rest of the extra credit.
