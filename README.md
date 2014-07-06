@@ -99,3 +99,8 @@ To view the show user page navigate your browser to:
 `http://localhost:8000/myapp`
 
 I also added a little easter egg. Enter the Konami code on the main page to check it out ^_^
+
+### Final Note
+
+I just wanted to say thank you for interviewing with me and possibly considering me for this position. I had fun building out this test
+I really enjoy working on python. I hope to be hearing from you all soon. Have a good one. 
